@@ -1,6 +1,6 @@
 # Portfolio
 
-The project is named as Talent Migration Analysis. The aim of the project is investigating the migration rates of the countries in 2015-2019 and reasons of migration in the world. Data has been obtained from Digital Data for Development which is a cooperation between Linkedin and the World Bank. 
+The project is named as Talent Migration Analysis. The aim of the project is investigating the migration rates of the countries in 2015-2019 and possible reasons of migration in the world. Data has been obtained from Digital Data for Development which is a cooperation between Linkedin and the World Bank. 
 
 During the project, data has been analysed by creating an hypothesis and trying to prove it.
 
